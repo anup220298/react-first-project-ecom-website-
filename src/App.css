@@ -7,7 +7,7 @@
 }
 body {
   font-family: "Oswald", sans-serif !important;
-  background: var(--mainYellow) !important;
+  background: var(--mainWhite) !important;
   color: var(
     --mainDark
   ) !important; /* here we used !important to avoid overwriting styling by bootstrap */
